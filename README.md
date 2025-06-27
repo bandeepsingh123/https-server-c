@@ -11,7 +11,10 @@ This is a simple HTTP server written in C from scratch, designed to help underst
 - Lightweight and easy to understand — beginner friendly!
 
 ## 📂 Project Structure
-
+http-server/
+├── server.c # Main server code
+├── README.md # Project documentation
+└── .gitignore # (optional) Ignores compiled files
 
 ## 🧠 Concepts Covered
 
@@ -32,5 +35,5 @@ gcc server.c -o server
 
 http://localhost:8080
 
-http://localhost:8080
+
 
